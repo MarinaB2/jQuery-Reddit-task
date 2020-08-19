@@ -1,0 +1,23 @@
+body{
+    background-color: #555;
+    color: azure;
+    text-align: center;
+}
+.divClass{
+width: 70%;
+margin-left: 200px;
+background-color: gray;
+border-color: antiquewhite;
+padding-bottom: 10px;
+opacity: 1;
+text-align: center;
+margin-top: 20px;
+}
+.containerClass{
+    width: 60%;
+    margin-left: 175px;
+
+}
+button{
+    margin-top: 20px;
+}
